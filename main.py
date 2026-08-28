@@ -12,8 +12,8 @@ import json, os, random, string
 from datetime import datetime, timedelta, timezone
 
 # ─────────────── ⚙️ 기본 설정 (여기만 수정!) ───────────────
-TOKEN = "여기에_봇_토큰_입력"
-OWNER_ID = 123456789012345678   # ← 니 디스코드 유저 ID로 바꿔!
+TOKEN = ""
+OWNER_ID = 1456231020482265101   # ← 니 디스코드 유저 ID로 바꿔!
 DATA_FILE = "licenses.json"
 
 KST = timezone(timedelta(hours=9))
